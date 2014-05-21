@@ -7,13 +7,13 @@
 
 
 
-	var Something = require('../')
+	var File = require('../')
 
 
 
-	describe('Something', function(){
-		it('should', function(){
-
+	describe('The File', function(){
+		it('should not crash when instantiated', function(){
+			new File();
 		});		
 	});
 	

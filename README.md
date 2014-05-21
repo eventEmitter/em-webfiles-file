@@ -16,7 +16,7 @@ file representation for ee-webfiles
 
 	var WebFile = require('em-webfiles-file');
 
-
+	// all options are optional
 	var myFile = new WebFile({
 		  path   	: '/relative/path/to/webroot'
 		, data 		: Buffer || String
