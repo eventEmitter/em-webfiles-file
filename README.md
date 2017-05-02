@@ -1,5 +1,7 @@
 # em-webfiles-file
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/em-webfiles-file.svg)](https://greenkeeper.io/)
+
 file representation for ee-webfiles
 
 ## installation
